@@ -69,3 +69,9 @@ button:hover{
     font-size: 12px;
     color: #666;
 }
+
+@media (max-width: 600px){
+    .container{
+        width: 225px;
+    }
+}
